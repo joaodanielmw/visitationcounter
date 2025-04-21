@@ -53,7 +53,3 @@ This project aims to create a simple web-based page visitation counter using PHP
 - This project helped solidify understanding of basic PHP functionalities like file handling, cookies, and sessions.
 
 - By implementing a page visitation counter, I gained valuable experience in managing user data in a simple, persistent way.
-
-- Future improvements could involve enhancing the counter's accuracy, adding a database for persistent storage, or improving user privacy by using anonymized data.
-
-- This project is a good starting point for working with PHP on a small-scale project before moving on to more complex applications like forums or web apps.
