@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    gap: 20px
+}
+
+.container p{
+    font-size: 20pt;
+    background: darkslategray;
+    color: white;
+    padding: 10px 20px;
+    
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.container p:hover{
+    transform: scale(1.1);
+    box-shadow: 10px 10px 6px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}

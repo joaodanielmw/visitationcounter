@@ -22,8 +22,6 @@ This project aims to create a simple web-based page visitation counter using PHP
 
 - Cookies: Implement cookies to track if a user has already visited the page, preventing multiple counts in a short period.
 
-- Sessions: Optionally, use sessions for user-specific visit tracking.
-
 - Basic HTML & PHP: Build the user interface with simple HTML and use PHP to process the visit data and display the result.
 
 ## Development
